@@ -5,6 +5,19 @@ This is a **React + Node.js** project integrating **OpenStreetMap (Leaflet)** wi
 ## 🎨 Figma Design
 [View UI/UX Design on Figma] [https://www.figma.com/design/C2V01BTBc0oBNTLEWiY5E5/Syncthreads-Computing-Pvt-Ltd?node-id=0-1&p=f&t=BLShJoZWdILhgZRP-0]
 
+## Home Page
+ ![Home Page](https://res.cloudinary.com/dbhg0qzls/image/upload/v1742725284/Landing_page_2_wjesb7.png)
+
+## Login Page
+ ![Login Page](https://res.cloudinary.com/dbhg0qzls/image/upload/v1742725285/Login_Page_by0eu0.png)
+
+## Dash Board Page
+![Login Page](https://res.cloudinary.com/dbhg0qzls/image/upload/v1742725284/Dashboard_ujn9w3.png)
+
+## Map View Page
+
+![Login Page](https://res.cloudinary.com/dbhg0qzls/image/upload/v1742725284/Map_View_bnefwo.png)
+
 ## 📌 Features
 - **Secure Authentication:** JWT-based login system.
 - **Dashboard:** Displays cards with unique IDs.
