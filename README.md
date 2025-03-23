@@ -31,7 +31,7 @@ This is a **React + Node.js** project integrating **OpenStreetMap (Leaflet)** wi
 POST /api/login
 ```
 - **Request:** `{ "username": "testuser", "password": "password123" }`
-- **Response:** `{ "token": "<JWT_TOKEN>" }`
+- **Response:** `{ "token": "717c14c6dcad409596f0ca97d913dfcd" }`
 
 ### 2️⃣ Dashboard
 ```http
