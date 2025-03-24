@@ -6,7 +6,7 @@ This is a **React + Node.js** project integrating **OpenStreetMap (Leaflet)** wi
 [View UI/UX Design on Figma] [https://www.figma.com/design/C2V01BTBc0oBNTLEWiY5E5/Syncthreads-Computing-Pvt-Ltd?node-id=0-1&p=f&t=BLShJoZWdILhgZRP-0]
 
 ## Home Page
- ![Home Page](https://res.cloudinary.com/dbhg0qzls/image/upload/v1742725284/Landing_page_2_wjesb7.png)
+ ![Home Page](https://res.cloudinary.com/dbhg0qzls/image/upload/v1742818151/Screenshot_12_buyysc.png)
 
 ## Login Page
  ![Login Page](https://res.cloudinary.com/dbhg0qzls/image/upload/v1742725285/Login_Page_by0eu0.png)
