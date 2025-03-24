@@ -12,11 +12,11 @@ This is a **React + Node.js** project integrating **OpenStreetMap (Leaflet)** wi
  ![Login Page](https://res.cloudinary.com/dbhg0qzls/image/upload/v1742725285/Login_Page_by0eu0.png)
 
 ## Dash Board Page
-![Login Page](https://res.cloudinary.com/dbhg0qzls/image/upload/v1742725284/Dashboard_ujn9w3.png)
+![Login Page](https://res.cloudinary.com/dbhg0qzls/image/upload/v1742795087/Screenshot_10_ghixr4.png)
 
 ## Map View Page
 
-![Login Page](https://res.cloudinary.com/dbhg0qzls/image/upload/v1742725284/Map_View_bnefwo.png)
+![Login Page](https://res.cloudinary.com/dbhg0qzls/image/upload/v1742795086/Screenshot_11_pfh3bv.png)
 
 ## 📌 Features
 - **Secure Authentication:** JWT-based login system.
