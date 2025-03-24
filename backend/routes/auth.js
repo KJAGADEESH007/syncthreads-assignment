@@ -2,7 +2,7 @@ const express = require("express");
 const jwt = require("jsonwebtoken");
 
 const router = express.Router();
-const SECRET_KEY = process.env.JWT_SECRET || "your_jwt_secret"; // Use .env variable
+const SECRET_KEY = process.env.JWT_SECRET || "your_jwt_secret";
 
 // Mock user (replace with database in real projects)
 const users = [{ username: "admin", password: "password123" }];
